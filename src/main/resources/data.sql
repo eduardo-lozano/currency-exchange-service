@@ -1,0 +1,3 @@
+insert into currency_exchange_value (id, currency_from, currency_to, conversion_factor, port) values (10000, 'USD', 'MXP', 19.50, 0);
+insert into currency_exchange_value (id, currency_from, currency_to, conversion_factor, port) values (10001, 'MXP', 'USD', 0.05128205, 0);
+insert into currency_exchange_value (id, currency_from, currency_to, conversion_factor, port) values (10002, 'EUR', 'MXP', 21.26, 0);
